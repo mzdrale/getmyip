@@ -6,7 +6,7 @@ Run `go get github.com/mzdrale/getmyip` from command line.
 
 ## Example
 
-```
+```go
 package main
 
 import (
